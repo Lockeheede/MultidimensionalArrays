@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Practice", "02. Practic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TwoDimensionalPeople", "03. TwoDimensionalPeople\03. TwoDimensionalPeople.csproj", "{FB1068D1-6062-4C6A-9202-1CD8A53EE680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matrices", "04. Matrices\04. Matrices.csproj", "{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FB1068D1-6062-4C6A-9202-1CD8A53EE680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB1068D1-6062-4C6A-9202-1CD8A53EE680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB1068D1-6062-4C6A-9202-1CD8A53EE680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
