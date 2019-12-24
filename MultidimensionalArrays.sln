@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TwoDimensionalPeople", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matrices", "04. Matrices\04. Matrices.csproj", "{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Images", "05. Images\05. Images.csproj", "{B0C5E874-7AF6-43A2-BD61-1A056AE8568B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7AF24AB-FE2B-4675-B01F-75C6902EE16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C5E874-7AF6-43A2-BD61-1A056AE8568B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C5E874-7AF6-43A2-BD61-1A056AE8568B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C5E874-7AF6-43A2-BD61-1A056AE8568B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C5E874-7AF6-43A2-BD61-1A056AE8568B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
